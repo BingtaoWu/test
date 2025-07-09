@@ -43,4 +43,6 @@ int main()
                     fd(number,a);
                 }
     return 0;
+    if(1)
+    return 1;
 }
